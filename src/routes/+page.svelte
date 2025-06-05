@@ -11,7 +11,7 @@
 </script>
 
 <Hero
-	title="You're the best"
+	title="I love you"
 	subtitle="Solutions that enhance user experience, and improve visual communication."
 	imageSrc="/sample.png"
 />
